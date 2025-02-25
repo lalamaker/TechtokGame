@@ -1,0 +1,48 @@
+1
+00:00:00,070 --> 00:00:05,000
+Hi there, I'm Max, your design guide,
+ready to learn some amazing skills?
+
+2
+00:00:05,560 --> 00:00:08,420
+I'm passionate about design
+thinking and problem solving.
+
+3
+00:00:08,970 --> 00:00:13,029
+Together, we'll discover how to create
+solutions that make a real difference.
+
+4
+00:00:14,420 --> 00:00:17,400
+Design thinking is all about
+solving problems creatively.
+
+5
+00:00:18,270 --> 00:00:22,320
+Imagine you're a detective, looking for
+clues to understand what people need.
+
+6
+00:00:22,979 --> 00:00:26,739
+Then, you become an inventor,
+coming up with cool ideas
+
+7
+00:00:26,739 --> 00:00:28,020
+to make their lives better.
+
+8
+00:00:28,780 --> 00:00:32,539
+By the end of this journey, you'll
+have tools and skills to turn your
+
+9
+00:00:32,539 --> 00:00:36,600
+ideas into something real, like a
+prototype of an app or a product.
+
+10
+00:00:37,070 --> 00:00:38,820
+Let's dive in and explore together.
+
